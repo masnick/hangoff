@@ -1,32 +1,26 @@
-Fever Font
+Hangoff
 ==========
 
-In an effort to reduce eye strain while reading articles in
-[Fever](http://feedafever.com), I worte this tiny Chrome extension that increases
-the font size for full article text only from 12px to 16px (or whatever you want).
+
+Use Google Hangouts chat without Google+. Because who wants Google+.
 
 Installation
 ------------
 
-1.  [Download as zip](https://github.com/masnick/feverfont/zipball/master) and
+1.  [Download as zip](https://github.com/masnick/hangoff/zipball/master) and
     unzip.
 
-2.  Modify the font size and line height in `feverfonts.css` as you see fit.
-
-3.  Modify the URLs in `manifest.json` to match your own Fever installation.
-
-4.  Go to the Extensions page in Chrome, click the "Developer mode" checkbox,
+2.  Go to the Extensions page in Chrome, click the "Developer mode" checkbox,
     then click the "Load unpacked extension..." button. Select the folder
-    with `feverfont.css` and `manifest.json` in it.
+    with `hangoff.js` and `manifest.json` in it.
 
-5.  Navigate to your Fever installation. You should see a larger font size when
-    you open the full text of an article.
+3.  Go to [https://plus.google.com](https://plus.google.com) and see the magic happen.
 
 
 Questions, improvements?
 ------------------------
 
-Open an issue or a pull request, then [https://twitter.com/masnick](ping me on twitter)
+Open an issue or a pull request, then [https://alpha.app.net/masnick](ping me on app.net)
 to make sure I see it.
 
 License
