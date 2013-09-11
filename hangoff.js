@@ -10,7 +10,7 @@ NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
     }
 }
 
-setTimeout(function() {
+setInterval(function() {
   document.getElementById("content").remove();
   document.getElementById("gb").remove();
-}, 4000);
+}, 10000);
