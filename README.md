@@ -1,8 +1,12 @@
 Hangoff
 ==========
 
-
 Use Google Hangouts chat without Google+. Because who wants Google+.
+
+Screenshot
+----------
+
+<img src="https://dl.dropbox.com/u/634/permanent/hangoff/screenshot.png" width="800">
 
 Installation
 ------------
