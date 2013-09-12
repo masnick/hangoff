@@ -24,7 +24,7 @@ Installation
 Questions, improvements?
 ------------------------
 
-Open an issue or a pull request, then [https://alpha.app.net/masnick](ping me on app.net)
+Open an issue or a pull request, then [ping me on app.net](https://alpha.app.net/masnick)
 to make sure I see it.
 
 License
